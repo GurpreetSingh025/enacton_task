@@ -20,7 +20,8 @@ export default {
         'large': '1900px',
         'mid' : '925px' ,
         'small' : '700px',
-        'verysmall' : '620px'
+        'verysmall' : '620px' ,
+        'mobile' : '412px'
       },
     },
   },

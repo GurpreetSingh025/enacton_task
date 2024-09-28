@@ -41,6 +41,15 @@ body{
  @media (max-width: 620px) {
    .slick-slide {
       margin-right: 30px ;
+   }   
+ }
+ @media (max-width: 390px) {
+   .slick-slider {
+      gap : 0px ;
+   }
+   .slick-list{
+      position: relative ;
+      left : 9px ;
    }
  }
 .slick-prev, .slick-next{
