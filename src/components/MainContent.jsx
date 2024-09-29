@@ -8,7 +8,7 @@ import FooterContent from './FooterContent';
 function MainContent(){
    return(
     <div className="content-cont h-fit z-30 w-full verysmall:w-main-content-width bg-black absolute top-0 left-0 verysmall:left-[90px]">
-        <div className='h-[100vh] mb-5'></div>
+        <div className='h-[86vh] mb-3'></div>
         <Products/>
         <ShopBlock/>
         <Faq/>

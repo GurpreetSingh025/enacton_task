@@ -83,7 +83,7 @@ function Products() {
         ]
     };
     return (
-        <div className="product-cont pl-1 py-20 mobile:pl-6 select-none mb-5">
+        <div className="product-cont pl-1 pt-5 pb-14 mobile:pl-6 select-none mb-5">
             <div className="product-cont-heading w-full flex justify-start mb-7">
                 <div className="title-desc w-[455px]">
                     <p className="text-heading border-solid border-[#D29A5A] border-b-2 font-poppins pr-20 w-full font-normal text-[19px] mb-6">CHEF MATT PRODUCTS</p>
